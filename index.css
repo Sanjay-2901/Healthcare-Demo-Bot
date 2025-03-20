@@ -1,0 +1,9 @@
+html {
+  height: 100vh;
+  width: 100%;
+}
+
+body {
+  background-image: url('./assets/hsptl-img.webp');
+  background-size: cover;
+}
